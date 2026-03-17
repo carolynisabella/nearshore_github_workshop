@@ -8,6 +8,8 @@
 
 Summary here
 
+Contributions of Jake Etzkorn
+
 ```
 repository reference citation
 ```
