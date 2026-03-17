@@ -1,12 +1,14 @@
-<div align='center'>
-    <a href='https://tula.org'><img height='75px' src=docs/logos/tula-logo.png /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href='https://hakai.org'><img height='75px' src=docs/logos/hakai-logo.png /></a>
+
+<div align='center'> <a href='https://tula.org'><img height='75px' src=docs/logos/tula-logo.png /></a> &nbsp;&nbsp;&nbsp;&nbsp; <a 
+    href='https://hakai.org'><img height='75px' src=docs/logos/hakai-logo.png /></a>
 </div>
 
 # hakai-dataset-repository-template
 
+
+
 Summary here
+Carolyn's addition
 
 ```
 repository reference citation
